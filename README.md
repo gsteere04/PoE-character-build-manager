@@ -4,3 +4,5 @@ There will also be a filter that filters and sort through specific characters.  
 
 This project makes use of FastAPI, Pydantic, Postgres, SQLAlchemy, SQLite, and Alembic.  
 
+## UPDATE
+Change of plans, pulling from the Grinding Gears Games API is crazy annoying.  If I learn how to do it efficiently, then I shall implement it.  Also storing account information and syncing it to the database also seems a bit too aspirational for me.
